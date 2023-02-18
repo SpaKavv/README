@@ -1,5 +1,5 @@
-# Όνομα ομάδας: The4Beasts
-## GitHub organisation url: [The4Beasts](https://github.com/The4Beasts)
+# Όνομα ομάδας: SpaKavv
+## GitHub organisation url: [SpaKavv](https://github.com/SpaKavv)
 
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
