@@ -1,5 +1,6 @@
 # Όνομα ομάδας: SpaKavv
 ## GitHub organisation url: [SpaKavv](https://github.com/SpaKavv)
+### Νέα μέλη δεκτά: ΝΑΙ/ΟΧΙ
 
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
